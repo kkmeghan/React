@@ -1,2 +1,3 @@
+base = "github-finder/"
 [build]
-  publish="build"
+  publish="github-finder/build"
